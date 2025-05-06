@@ -66,3 +66,5 @@ This project explores the application of hierarchical clustering and K-Means clu
 1.  Clone this repository.
 2.  Ensure all dependencies are installed (`pip install scikit-learn pandas matplotlib seaborn`).
 3.  Run the appropriate scripts for each dataset to reproduce the results.
+
+For specific details, please refer to Homework 4.0-Report
